@@ -11,7 +11,7 @@ role: "DPhil Student in Politics"
 # Organizations/Affiliations
 organizations:
 - name: "University of Oxford"
-  url: ""
+  url: "https://ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -72,4 +72,4 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a first-year DPhil Student in Politics at [Merton College](https://merton.ox.ac.uk), [University of Oxford](https://ox.ac.uk). I study the creation and variation in institutional design of independent non-majoritarian institutions, specifically Anti-Corruption Agencies (ACAs). What explains the adoption of ACAs? Why do they take particular institutional forms? What are the consequences of choosing one model over another? My dissertation project answers these questions using a mixed-methos research design. I am supervised by Dr. [Ezequiel González-Ocantos](https://www.politics.ox.ac.uk/academic-staff/ezequiel-gonzalez-ocantos.html).
+I am a first-year DPhil Student in Politics at [Merton College](https://merton.ox.ac.uk) and the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) of the University of Oxford. I study the creation and variation in institutional design of independent non-majoritarian institutions, specifically Anti-Corruption Agencies (ACAs). What explains the adoption of ACAs? Why do they take particular institutional forms? What are the consequences of choosing one model over another? My dissertation project answers these questions using a mixed-methos research design. I am supervised by Dr. [Ezequiel González-Ocantos](https://www.politics.ox.ac.uk/academic-staff/ezequiel-gonzalez-ocantos.html).

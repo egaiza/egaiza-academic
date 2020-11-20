@@ -3,7 +3,7 @@ title: "The Awakening of Guatemalan Society: explaining the appearance of the so
 authors:
 - Silvia Sofía Montenego Mejía
 - admin
-date: "July, 2016"
+date: 2016-07-01
 publication: "*Encuentro Latinoamericano, 3* (1)"
 publication_types:
 - "2"

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Edgar Gutiérrez Aiza
+title: "Edgar Gutiérrez Aiza"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: DPhil Student in Politics
+role: "DPhil Student in Politics"
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: "University of Oxford"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

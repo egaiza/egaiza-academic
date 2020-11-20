@@ -97,7 +97,7 @@ address = {street = "Merton College, Merton Street", city = "Oxford", region = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.7511", longitude = "1.2508"}
+coordinates = {latitude = "51.751124561020845", longitude = "-1.250830926254801"}
 
 # Directions for visitors to locate you.
 directions = ""

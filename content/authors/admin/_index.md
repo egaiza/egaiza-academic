@@ -6,7 +6,7 @@ title: "Edgar Gutiérrez Aiza"
 superuser: true
 
 # Role/position
-role: "DPhil Student in Politics"
+role: "DPhil Candidate in Politics"
 
 # Organizations/Affiliations
 organizations:
